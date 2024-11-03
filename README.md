@@ -1,2 +1,2 @@
-# -WanderWise
+# WanderWise
 Mobile Application Project
