@@ -1,2 +1,2 @@
 # WanderWise
-Mobile Application Project
+Mobile Application Project 5th sem
